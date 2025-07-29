@@ -99,11 +99,11 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  avatar           : "/assets/images/muhammad-suhail.jpg"
+  bio              : "*Computer Scientist*, *Database Developer*."
+  location         : "Islamabad, PK"
   links:
-    - label: "Made Mistakes"
+    - label: "Personal Website"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
     - label: "Twitter"
